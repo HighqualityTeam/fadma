@@ -17,6 +17,6 @@ int main()
    else
    cout<<"is odd"<<endl;
     }
-   
+   // this is editng 
 return 0;
 }
